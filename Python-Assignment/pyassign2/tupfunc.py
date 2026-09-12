@@ -1,0 +1,10 @@
+#Python Program to Demonstrate Use of Tuple and Various Functions
+print("M.Sc.(CS&CL) Semester 1")
+print("Enrollment No.: 92600565016")
+print("Harshil Mungara")
+my_tuple = (10, 20, 30, 40)
+print("Tuple:", my_tuple)
+print("Length of tuple:", len(my_tuple))
+print("First element:", my_tuple[0])
+print("Last element:", my_tuple[-1])
+print("Slice (first 3):", my_tuple[:2])
